@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "watch-skill": {
+      "source": {
+        "source": "github",
+        "repo": "oxbshw/watch-skill"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "watch-skill@watch-skill": true
+  }
+}
